@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 30px;
+}
+div{
+    text-align: center;
+    margin: auto;
+    height: 600px;
+    width: 530px;
+    background-color: white;
+    border-radius: 18px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-top: 60px;
+}
+div>h2{
+    text-align: center;
+}
+div>form>input{
+    height: 40px;
+    width: 400px;          
+}
+div>form>p{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+div>button{
+    height: 50px;
+    width: 400px;
+    border-radius: 5px;
+    margin-top: 70px;
+    background-color: darkviolet;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+#bottom{
+width: 100%;
+text-align: center;
+margin: auto;
+background-color: gainsboro;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-top: 50px;
+}
+#bottom>p{
+    color: darkorchid;
+}
